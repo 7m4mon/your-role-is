@@ -2,7 +2,7 @@
 ![](https://github.com/7m4mon/your-role-is/blob/main/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%AF%E3%81%8A%E3%81%A8%E3%81%86%E3%81%95%E3%82%93.PNG)
 
 
-* 源柔ゴシック (げんじゅうゴシック) を使用  
+* フォント：源柔ゴシック
 http://jikasei.me/font/genjyuu/
 
 
